@@ -2,7 +2,7 @@
 layout:     post
 title:      "JFinal过滤掉WebSocket请求解决办法"
 subtitle:
-date:       2015-08-16 16：00：00
+date:       2015-08-16 16:00:00
 author:     "Obaw"
 catalog:    false
 header-img: ""
