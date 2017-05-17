@@ -5,7 +5,7 @@ header-img: img/home.jpeg
 email: xiaowei@helloxw.com
 description: "肖伟的个人博客"
 keyword: "小伟,Obaw,肖伟,obaw,helloxw,xiaowei, 肖伟的博客, Obaw Blog, 博客, 个人网站, 互联网, Java"
-url: "http://helloxw.com"              # your host, for absolute URL
+url: "http://www.helloxw.com"           # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -61,7 +61,7 @@ cloudKey: ea6a9b76660b444c9906362056aadc5b
 
 # Google Analytics
 ga_track_id: 'UA-98320569-1'            # Format: UA-xxxxxx-xx
-ga_domain: helloxw.com
+ga_domain: www.helloxw.com
 
 
 
