@@ -51,7 +51,11 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Cloud settings
-cloudKey: ea6a9b76660b444c9906362056aadc5b
+#cloudKey: ea6a9b76660b444c9906362056aadc5b
+
+# changyan settings
+changyan_app_id: cytnMYybq
+changyan_app_key: fc87402df6f3c23decc44da0de06ac50
 
 
 
