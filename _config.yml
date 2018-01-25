@@ -5,7 +5,7 @@ header-img: img/home.jpeg
 email: xiaowei@helloxw.com
 description: "肖伟的个人博客"
 keyword: "小伟,Obaw,肖伟,obaw,helloxw,xiaowei, 肖伟的博客, Obaw Blog, 博客, 个人网站, 互联网, Java"
-url: "http://www.helloxw.com"           # your host, for absolute URL
+url: "https://www.helloxw.com"           # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -48,14 +48,14 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+disqus_username: obawCarryYou
 
 # Cloud settings
 #cloudKey: ea6a9b76660b444c9906362056aadc5b
 
 # changyan settings
-changyan_app_id: cytnMYybq
-changyan_app_key: fc87402df6f3c23decc44da0de06ac50
+# changyan_app_id: cytnMYybq
+# changyan_app_key: fc87402df6f3c23decc44da0de06ac50
 
 
 
